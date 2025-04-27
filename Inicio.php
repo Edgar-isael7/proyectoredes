@@ -22,7 +22,6 @@
         <H1>Inicio Sesion</H1>
     </center>
     <a href="CerrarSesion.php" class="btn bnt-danger">Cerrar Sesion</a>
-    <h2>hola mundo</h2>
 </body>
 
 </html>
